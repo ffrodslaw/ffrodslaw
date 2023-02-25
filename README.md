@@ -5,6 +5,20 @@
 </div>
 
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/annawalsdorff/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/ffrodslaw">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="mailto:anna.walsdorff@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+</div>
+
+
+
 
 
 <!--
