@@ -20,7 +20,7 @@
 
 ### Who I am:
 - :chart_with_upwards_trend: Political scientist by training with more than ten years of experience in data science. 
-- :heavy_exclamation_mark: Looking for a position in data science.
+- :heavy_exclamation_mark: Looking for a position in the data science job family.
 - :star: Mainly coding in R (<3 tidyverse), but also Python.
 - :school: Currently improving my Python skills and learning SQL.
 - :us: Located in Rochester, NY.
@@ -37,20 +37,3 @@
 
   </div>
 
-
-
-
-<!--
-**ffrodslaw/ffrodslaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
