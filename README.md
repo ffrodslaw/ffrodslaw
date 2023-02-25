@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Anna 👋
+
+<div id="header" align="center">
+  <img src="https://giffiles.alphacoders.com/136/136399.gif" width="200"/>
+</div>
+
+
+
 
 <!--
 **ffrodslaw/ffrodslaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
