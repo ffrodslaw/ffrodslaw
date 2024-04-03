@@ -22,7 +22,7 @@
 - :chart_with_upwards_trend: Political scientist by training with more than ten years of experience in research and data science. 
 - :heavy_exclamation_mark: Looking for a position in the data science job family.
 - :star: Mainly coding in R (<3 tidyverse), but also Python.
-- :school: Currently improving my Python skills and learning SQL.
+- :school: Currently improving my Python and SQL skills.
 - :us: Located in Rochester, NY.
 
 
